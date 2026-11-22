@@ -74947,5 +74947,12 @@
     "author": "Louise",
     "description": "Listen to Cantonese podcasts sentence by sentence with automatic Jyutping, transcripts, word lookup, shadowing, spaced repetition, mistake review, and study stats. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "louiseleeai/pineapple-cantonese"
+  },
+  {
+    "id": "nyahome-mobile",
+    "name": "NyaHome Mobile",
+    "author": "amber",
+    "description": "A mobile-first local planner for calendars, sketch notes and task boards, with vault-file sharing for folder-sync services. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "st31orange/NyaHome-Mobile"
   }
 ]
